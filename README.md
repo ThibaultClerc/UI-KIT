@@ -2,7 +2,7 @@
   <br>
   <a href=""><img src="https://img.icons8.com/carbon-copy/100/000000/suitcase.png" width="130"/></a>
   <br>
-  Personal UI Kit for Eventbride Project
+  Personal UI Kit
   <br>
 </h1>
 
